@@ -1,0 +1,12 @@
+* First
+
+  Thanks again for the offer to look over things and help me find what the issue is.  I really appreciate it.
+
+  If you want please email me directly: robballantyne3 @ gmail . com   If you would prefer not, that is completely understandable, completly at your discretion.
+
+* Debugging
+
+  My only thinking at this point is that the resonators are not even close to the same frequency and thus "interfering" with each other.
+  I was thinking about disassembling the dead-bug board resonator by resonator and trying to measure each one individually.
+
+  
