@@ -15,3 +15,5 @@ Actual Components
 39nH  - https://www.digikey.ca/en/products/detail/te-connectivity-passive-product/36502A39NJTDG/5399619
 
 8.2uH - https://www.digikey.ca/en/products/detail/bourns-inc/RLB0608-8R2KL/2561283
+
+39nH  - T37-10 on deadbug construction board
