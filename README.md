@@ -18,9 +18,9 @@ Actual Components
 
 39nH  - T37-10 on deadbug construction board
 
-*** Design Two
+# Design Two
 
-Uses a "Direct-Coupled Design"
+Uses a "Direct-Coupled Design" - design2.pdf captures the design.
 
 1.00uH - https://www.digikey.ca/en/products/detail/epcos-tdk-electronics/B78108S1102J000/3501030
 
@@ -31,3 +31,4 @@ Uses a "Direct-Coupled Design"
 390pF  - https://www.digikey.ca/en/products/detail/yageo/CC0603FRNPO9BN391/5883507
 
 300pF  - https://www.digikey.ca/en/products/detail/murata-electronics/GCM1885C2A301FA16J/16033406
+
