@@ -17,3 +17,17 @@ Actual Components
 8.2uH - https://www.digikey.ca/en/products/detail/bourns-inc/RLB0608-8R2KL/2561283
 
 39nH  - T37-10 on deadbug construction board
+
+*** Design Two
+
+Uses a "Direct-Coupled Design"
+
+1.00uH - https://www.digikey.ca/en/products/detail/epcos-tdk-electronics/B78108S1102J000/3501030
+
+820oF  - https://www.digikey.ca/en/products/detail/yageo/CC0603FRNPO9BN821/5883519
+
+3600pF - https://www.digikey.ca/en/products/detail/murata-electronics/GCM1885C1H362FA16J/11618623
+
+390pF  - https://www.digikey.ca/en/products/detail/yageo/CC0603FRNPO9BN391/5883507
+
+300pF  - https://www.digikey.ca/en/products/detail/murata-electronics/GCM1885C2A301FA16J/16033406
